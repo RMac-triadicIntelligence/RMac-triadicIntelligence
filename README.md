@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Eleven lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twelve lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -70,6 +70,12 @@ Independent reproduction of Jean-Guillaume Nardi's Minato authorization cold-fen
 Mutual-activation experiment comparing state kicks vs field-parameter changes. Source hash-pinned; quick/full runners.
 
 - [grace-state-vs-parametric](https://github.com/RMac-triadicIntelligence/grace-state-vs-parametric) — Apache-2.0
+
+
+### 12. GRACE-1 × KENTA hook
+Sandbox showing where external KENTA validation can attach without entering a simulator core. Stub + YAML dials; A/B summary reproduces.
+
+- [grace1-kenta-hook](https://github.com/RMac-triadicIntelligence/grace1-kenta-hook) — Apache-2.0
 
 ## How to read the work
 

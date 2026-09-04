@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Nine lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Ten lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -58,6 +58,12 @@ Preregistered simulation study: same founders, different raising histories, iden
 Split-authority artifact validator (GENESIS-V7). v7.2 hardening candidate; soft panels reproduce. No physical HSM exercised.
 
 - [genesis-validator](https://github.com/RMac-triadicIntelligence/genesis-validator) — v7.2 candidate · Apache-2.0
+
+
+### 10. B3 Minato Cold-Fence
+Independent reproduction of Jean-Guillaume Nardi's Minato authorization cold-fence (RED/PASS, 22/22 bit-identical). Empirical case for GRACE-1 hardware boundaries.
+
+- [b3-minato-cold-fence](https://github.com/RMac-triadicIntelligence/b3-minato-cold-fence) — seal `f4155a1b…` · Apache-2.0
 
 ## How to read the work
 

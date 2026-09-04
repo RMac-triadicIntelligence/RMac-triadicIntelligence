@@ -8,10 +8,11 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 Five lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
-### 1. Humble Seed lineage
-Adversarial review record: what broke under a Triadic protocol, what the merge fixed, and the probe output that supports each claim.
+### 1. Humble Seed
+Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
 
-- [humble-seed-lineage-v2](https://github.com/RMac-triadicIntelligence/humble-seed-lineage-v2) — reproducible probes · merged v0.7 · paper
+- [humble-seed](https://github.com/RMac-triadicIntelligence/humble-seed) — v0.6 code · probes · CI
+- [humble-seed-lineage-v2](https://github.com/RMac-triadicIntelligence/humble-seed-lineage-v2) — adversarial review record · merged v0.7 · paper
 
 ### 2. Living supply-chain security
 **Self-updating systems must not self-authorize.** Reference monitor + falsification battery for runtime software supply-chain integrity.

@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Five lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Six lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -34,6 +34,12 @@ Convergent evolution across substrates: probabilistic TQNM attractors and symbol
 
 ### 5. Healthcare finance
 - [CIO](https://github.com/RMac-triadicIntelligence/CIO) — Collateralized Insurance Obligations
+
+
+### 6. Digital-Life Topology
+Neutral trace analyzer for six observable digital life signs under a shared R/U topology. The package refuses its own crossing claim until independent substrates exist.
+
+- [digital-life-topology](https://github.com/RMac-triadicIntelligence/digital-life-topology) — frozen v0.1 seal · 22/22 · Apache-2.0
 
 ## How to read the work
 

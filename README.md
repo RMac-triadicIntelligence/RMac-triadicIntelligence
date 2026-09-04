@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Seven lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Eight lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -46,6 +46,12 @@ Neutral trace analyzer for six observable digital life signs under a shared R/U 
 Sealed harness for feeding constrained interpretations into a Grace basin without false commits. Stub-verified; real-model evaluation still open.
 
 - [fence-benchmark](https://github.com/RMac-triadicIntelligence/fence-benchmark) — 2026-07-02 seal · recomputable · Apache-2.0
+
+
+### 8. Genesis-to-Palette Bridge
+Preregistered simulation study: same founders, different raising histories, identifiable behavior across a model swap. Prereg only — no runs yet.
+
+- [genesis-to-palette-bridge](https://github.com/RMac-triadicIntelligence/genesis-to-palette-bridge) — v0.2.2 seal · pending OrganB · Apache-2.0
 
 ## How to read the work
 

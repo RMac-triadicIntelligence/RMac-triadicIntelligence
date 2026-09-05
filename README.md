@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Thirteen lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Fourteen lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -82,6 +82,12 @@ Sandbox showing where external KENTA validation can attach without entering a si
 Evidence packet for Raised, Not Rented recovery work (2026-09-01): 14 claims, source catalog, frozen v0.1 replays, open recovery queue.
 
 - [evergreen-archaeology](https://github.com/RMac-triadicIntelligence/evergreen-archaeology) — Apache-2.0
+
+
+### 14. Attestation + Ablation v3
+July 2 seal: durable fail-closed attestation harness + synthetic ablation/epistasis pipeline recovery. Methodological half closed; live-trace crossing still open.
+
+- [attestation-ablation-v3](https://github.com/RMac-triadicIntelligence/attestation-ablation-v3) — seal `65712901…` · Apache-2.0
 
 ## How to read the work
 

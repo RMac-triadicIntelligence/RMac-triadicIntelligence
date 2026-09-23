@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Fourteen lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Fifteen lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -88,6 +88,14 @@ Evidence packet for Raised, Not Rented recovery work (2026-09-01): 14 claims, so
 July 2 seal: durable fail-closed attestation harness + synthetic ablation/epistasis pipeline recovery. Methodological half closed; live-trace crossing still open.
 
 - [attestation-ablation-v3](https://github.com/RMac-triadicIntelligence/attestation-ablation-v3) — seal `65712901…` · Apache-2.0
+
+
+### 15. Raised Not Rented / Gospel / Organism (Sep 2026 seals)
+Commons-kernel batteries and gospel / organism / whole-environment sealed packs. Simulation evidence shelves — not consciousness or AGI claims.
+
+- [raised-not-rented](https://github.com/RMac-triadicIntelligence/raised-not-rented) — commons-kernel v0.10–v0.13 · ablation · 2026-09-23 reruns
+- [gospel-positional-reception](https://github.com/RMac-triadicIntelligence/gospel-positional-reception) — positional reception v0.1/v0.2 · junction v0.3
+- [organism-whole-environment-batteries](https://github.com/RMac-triadicIntelligence/organism-whole-environment-batteries) — organism · grace boundary · whole-system · topographic memory
 
 ## How to read the work
 

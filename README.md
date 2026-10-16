@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Twenty-one lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twenty-two lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -131,6 +131,12 @@ Three preregistered simulation tests (dwelling, love window, grace nudge). Predi
 Signed merchant "agents may shop here" manifests plus user-signed delegation receipts. Nothing may vouch for itself at checkout. Battery 15/15 PASS.
 
 - [agent-welcome](https://github.com/RMac-triadicIntelligence/agent-welcome) — v0.1 · 15/15 · Apache-2.0
+
+
+### 22. The Terrain Remembers
+Oct 15 terrain line: falsification round, root adversary, and conductor. Every failure kept.
+
+- [the-terrain-remembers](https://github.com/RMac-triadicIntelligence/the-terrain-remembers) — terrain v1.3–v1.9 · commons · every FAIL retained
 
 ## How to read the work
 

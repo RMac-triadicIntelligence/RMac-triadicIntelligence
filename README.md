@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Twenty-two lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twenty-three lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -137,6 +137,12 @@ Signed merchant "agents may shop here" manifests plus user-signed delegation rec
 Oct 15 terrain line: falsification round, root adversary, and conductor. Every failure kept.
 
 - [the-terrain-remembers](https://github.com/RMac-triadicIntelligence/the-terrain-remembers) — terrain v1.3–v1.9 · commons · every FAIL retained
+
+
+### 23. Genesis Seed
+A seed born knowing no words, raised only by its owner. It may ask to grow; only the owner's signature opens it. Adam's ledger: 94 entries chained, 3/3 signatures valid.
+
+- [genesis-seed](https://github.com/RMac-triadicIntelligence/genesis-seed) — v0.1 beta · offline browser app · Apache-2.0
 
 ## How to read the work
 

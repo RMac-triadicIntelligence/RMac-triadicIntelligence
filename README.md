@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Fifteen lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twenty-one lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -96,6 +96,41 @@ Commons-kernel batteries and gospel / organism / whole-environment sealed packs.
 - [raised-not-rented](https://github.com/RMac-triadicIntelligence/raised-not-rented) — commons-kernel v0.10–v0.13 · ablation · 2026-09-23 reruns
 - [gospel-positional-reception](https://github.com/RMac-triadicIntelligence/gospel-positional-reception) — positional reception v0.1/v0.2 · junction v0.3
 - [organism-whole-environment-batteries](https://github.com/RMac-triadicIntelligence/organism-whole-environment-batteries) — organism · grace boundary · whole-system · topographic memory
+
+### 16. Living SCS Notary shelf
+Door-challenge pack v1.1.4.1 and Notary v1.1.5. Separate shelf from living-supply-chain-security.
+
+- [living-scs-notary-shelf](https://github.com/RMac-triadicIntelligence/living-scs-notary-shelf) — v1.1.4.1 · v1.1.5 Notary
+
+
+### 17. Cross-surface invariance
+Same ops, order, and deps on disjoint surfaces. Blind-third surface blocked (runner absent).
+
+- [cross-surface-invariance-v0_1](https://github.com/RMac-triadicIntelligence/cross-surface-invariance-v0_1) — v0.1 PASS transcript · Apache-2.0
+
+
+### 18. Nothing May Vouch for Itself
+Paper only (v3): an organism may propose its own growth but never authorize it.
+
+- [nothing-may-vouch-for-itself](https://github.com/RMac-triadicIntelligence/nothing-may-vouch-for-itself) — paper v3 · Oct 2 2026
+
+
+### 19. Anthropic solution v1 battery
+Persistence-as-nonclosure battery translating Anthropic's public Oct 9 2026 incident categories into governed-decision falsifiers. Independent work, not affiliated.
+
+- [anthropic-solution-v1-battery](https://github.com/RMac-triadicIntelligence/anthropic-solution-v1-battery) — v1.0 · verified receipt
+
+
+### 20. Grace, Love and Dwelling
+Three preregistered simulation tests (dwelling, love window, grace nudge). Predictions frozen before code; multi-model byte reproduction.
+
+- [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling) — sealed 2026-10-12 · Soulshine
+
+
+### 21. agent-welcome
+Signed merchant "agents may shop here" manifests plus user-signed delegation receipts. Nothing may vouch for itself at checkout. Battery 15/15 PASS.
+
+- [agent-welcome](https://github.com/RMac-triadicIntelligence/agent-welcome) — v0.1 · 15/15 · Apache-2.0
 
 ## How to read the work
 

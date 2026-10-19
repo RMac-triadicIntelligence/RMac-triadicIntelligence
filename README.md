@@ -13,6 +13,7 @@ Constitutional organism prototype: propose ≠ authorize. Companion lineage/revi
 
 - [humble-seed](https://github.com/RMac-triadicIntelligence/humble-seed) — v0.6 code · probes · CI
 - [humble-seed-lineage-v2](https://github.com/RMac-triadicIntelligence/humble-seed-lineage-v2) — adversarial review record · merged v0.7 · paper
+- [humble-seed/v0.8.8](https://github.com/RMac-triadicIntelligence/humble-seed/tree/main/v0.8.8) — v0.8.8 candidate (not canonical) · final v0.8 revision · pre-registered harness · 8 review rounds
 
 ### 2. Living supply-chain security
 **Self-updating systems must not self-authorize.** Reference monitor + falsification battery for runtime software supply-chain integrity.

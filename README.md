@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Twenty-three lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twenty-four lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -144,6 +144,11 @@ Oct 15 terrain line: falsification round, root adversary, and conductor. Every f
 A seed born knowing no words, raised only by its owner. It may ask to grow; only the owner's signature opens it. Adam's ledger: 94 entries chained, 3/3 signatures valid.
 
 - [genesis-seed](https://github.com/RMac-triadicIntelligence/genesis-seed) — v0.1 beta · offline browser app · Apache-2.0
+
+### 24. Genesis 3 Approval Battery
+Sealed synthetic approval-integrity battery over Humble Seed v0.7. Separates approval integrity from reviewer judgment; exact-key, step-limit, and dual-review checks. Receipt `cf5a23d6…`.
+
+- [genesis3-approval-battery](https://github.com/RMac-triadicIntelligence/genesis3-approval-battery) — v1.0 · Apache-2.0 · work date 2026-10-31
 
 ## How to read the work
 

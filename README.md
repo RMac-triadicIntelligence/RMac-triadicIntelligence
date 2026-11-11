@@ -6,7 +6,7 @@ Soulshine (501(c)(3), Tulsa). Collaborator on Minato / KENTA work: Jean-Guillaum
 
 ## What this account is
 
-Twenty-four lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
+Twenty-nine lanes. Everything else from the January exploratory pile is archived (still there, just off the shelf).
 
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
@@ -149,6 +149,32 @@ A seed born knowing no words, raised only by its owner. It may ask to grow; only
 Sealed synthetic approval-integrity battery over Humble Seed v0.7. Separates approval integrity from reviewer judgment; exact-key, step-limit, and dual-review checks. Receipt `cf5a23d6…`.
 
 - [genesis3-approval-battery](https://github.com/RMac-triadicIntelligence/genesis3-approval-battery) — v1.0 · Apache-2.0 · work date 2026-10-31
+
+### 25. swarm_r0
+Arm A DAO open-swarm harness from arXiv:2611.03975v1. R0 FAIL — paper direction not reproduced. Engineering validation only (120/120 replay, 35/35 self-test, 5/5 tamper cases); no downstream claims.
+
+- [swarm-r0](https://github.com/RMac-triadicIntelligence/swarm-r0) — v0.2.0 · R0 FAIL · work date 2026-11-07 · Apache-2.0
+
+### 26. Commons and Dwelling Grace
+Free-hand conductor (Claude) commons and dwelling_grace builds from 2026-11-09, plus a history-seat reproduction and review. Not normative; they prove nothing about grace.
+
+- [commons-dwelling-grace](https://github.com/RMac-triadicIntelligence/commons-dwelling-grace) — 2026-11-09 · not normative · Apache-2.0
+
+### 27. Relational Transitions
+Reference experiment on relationships, capacity, grace, forgiveness, and inheritance, with a history-seat falsifier review. Full relationships: 75.13% correct, +28.52 points over random contact. Hypothesis H5 (inheritance) failed and was left failed.
+
+- [relational-transitions-v0.1](https://github.com/RMac-triadicIntelligence/relational-transitions-v0.1) — v0.1 · H5 failed · Apache-2.0
+
+### 28. Triadic in Action
+Documentary record and artifact shelf of the closed four-round, two-seat review of From Reykjavik to Relational Grace (v0.4–v0.7). Rounds 1–4 are closed as rounds; not every finding is closed. Round 5 / v0.8 is still open and is not in these repositories.
+
+- [triadic-in-action](https://github.com/RMac-triadicIntelligence/triadic-in-action) — rounds 1–4 record · seals opened · Apache-2.0
+- [triadic-in-action-builds](https://github.com/RMac-triadicIntelligence/triadic-in-action-builds) — papers v0.4–v0.7 · toys · open_hand · Apache-2.0
+
+### 29. Lab Notebook
+Daily laboratory experiments and workbench batteries, published for public timestamping and provenance. Folder dates are work dates; commit timestamps are the publish date. Nothing is backdated.
+
+- [lab-notebook](https://github.com/RMac-triadicIntelligence/lab-notebook) — dated day folders · Apache-2.0
 
 ## How to read the work
 

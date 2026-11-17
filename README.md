@@ -11,30 +11,30 @@ Twenty-nine lanes. Everything else from the January exploratory pile is archived
 ### 1. Humble Seed
 Constitutional organism prototype: propose ≠ authorize. Companion lineage/review record alongside.
 
-- [humble-seed](https://github.com/RMac-triadicIntelligence/humble-seed) — v0.6 code · probes · CI
-- [humble-seed-lineage-v2](https://github.com/RMac-triadicIntelligence/humble-seed-lineage-v2) — adversarial review record · merged v0.7 · paper
+- [humble-seed](https://github.com/RMac-triadicIntelligence/humble-seed) — v0.6 code · probes · CI · Business Source License 1.1
+- [humble-seed-lineage-v2](https://github.com/RMac-triadicIntelligence/humble-seed-lineage-v2) — adversarial review record · merged v0.7 · paper · Business Source License 1.1
 - [humble-seed/v0.8.8](https://github.com/RMac-triadicIntelligence/humble-seed/tree/main/v0.8.8) — v0.8.8 candidate (not canonical) · final v0.8 revision · pre-registered harness · 8 review rounds
 
 ### 2. Living supply-chain security
 **Self-updating systems must not self-authorize.** Reference monitor + falsification battery for runtime software supply-chain integrity.
 
-- [living-supply-chain-security](https://github.com/RMac-triadicIntelligence/living-supply-chain-security) — v1.1.3 · 117-test battery · Ed25519-bound commits
+- [living-supply-chain-security](https://github.com/RMac-triadicIntelligence/living-supply-chain-security) — v1.1.3 · 117-test battery · Ed25519-bound commits · Business Source License 1.1
 
 ### 3. Triadic intelligence
 Dynamical models of insight, dwelling, and coherence (TI vs AGI).
 
-- [triadic-quantum-nonlinear-memory](https://github.com/RMac-triadicIntelligence/triadic-quantum-nonlinear-memory) — flagship TQNM
-- [contemplative-learning-dynamics](https://github.com/RMac-triadicIntelligence/contemplative-learning-dynamics) — Dwelling Dynamics
+- [triadic-quantum-nonlinear-memory](https://github.com/RMac-triadicIntelligence/triadic-quantum-nonlinear-memory) — flagship TQNM · MIT
+- [contemplative-learning-dynamics](https://github.com/RMac-triadicIntelligence/contemplative-learning-dynamics) — Dwelling Dynamics · MIT
 
 ### 4. KENTA / digital organisms
 Convergent evolution across substrates: probabilistic TQNM attractors and symbolic KENTA guardians.
 
-- [triadic_kenta](https://github.com/RMac-triadicIntelligence/triadic_kenta)
-- [live_swarm](https://github.com/RMac-triadicIntelligence/live_swarm)
-- [emergence-across-substrates-digital-organism-test-results](https://github.com/RMac-triadicIntelligence/emergence-across-substrates-digital-organism-test-results)
+- [triadic_kenta](https://github.com/RMac-triadicIntelligence/triadic_kenta) — Apache-2.0
+- [live_swarm](https://github.com/RMac-triadicIntelligence/live_swarm) — MIT
+- [emergence-across-substrates-digital-organism-test-results](https://github.com/RMac-triadicIntelligence/emergence-across-substrates-digital-organism-test-results) — Apache-2.0
 
 ### 5. Healthcare finance
-- [CIO](https://github.com/RMac-triadicIntelligence/CIO) — Collateralized Insurance Obligations
+- [CIO](https://github.com/RMac-triadicIntelligence/CIO) — Collateralized Insurance Obligations · MIT
 
 
 ### 6. Digital-Life Topology
@@ -94,14 +94,14 @@ July 2 seal: durable fail-closed attestation harness + synthetic ablation/epista
 ### 15. Raised Not Rented / Gospel / Organism (Sep 2026 seals)
 Commons-kernel batteries and gospel / organism / whole-environment sealed packs. Simulation evidence shelves — not consciousness or AGI claims.
 
-- [raised-not-rented](https://github.com/RMac-triadicIntelligence/raised-not-rented) — commons-kernel v0.10–v0.13 · ablation · 2026-09-23 reruns
-- [gospel-positional-reception](https://github.com/RMac-triadicIntelligence/gospel-positional-reception) — positional reception v0.1/v0.2 · junction v0.3
-- [organism-whole-environment-batteries](https://github.com/RMac-triadicIntelligence/organism-whole-environment-batteries) — organism · grace boundary · whole-system · topographic memory
+- [raised-not-rented](https://github.com/RMac-triadicIntelligence/raised-not-rented) — commons-kernel v0.10–v0.13 · ablation · 2026-09-23 reruns · Apache-2.0
+- [gospel-positional-reception](https://github.com/RMac-triadicIntelligence/gospel-positional-reception) — positional reception v0.1/v0.2 · junction v0.3 · Apache-2.0
+- [organism-whole-environment-batteries](https://github.com/RMac-triadicIntelligence/organism-whole-environment-batteries) — organism · grace boundary · whole-system · topographic memory · Apache-2.0
 
 ### 16. Living SCS Notary shelf
 Door-challenge pack v1.1.4.1 and Notary v1.1.5. Separate shelf from living-supply-chain-security.
 
-- [living-scs-notary-shelf](https://github.com/RMac-triadicIntelligence/living-scs-notary-shelf) — v1.1.4.1 · v1.1.5 Notary
+- [living-scs-notary-shelf](https://github.com/RMac-triadicIntelligence/living-scs-notary-shelf) — v1.1.4.1 · v1.1.5 Notary · Apache-2.0
 
 
 ### 17. Cross-surface invariance
@@ -113,19 +113,19 @@ Same ops, order, and deps on disjoint surfaces. Blind-third surface blocked (run
 ### 18. Nothing May Vouch for Itself
 Paper only (v3): an organism may propose its own growth but never authorize it.
 
-- [nothing-may-vouch-for-itself](https://github.com/RMac-triadicIntelligence/nothing-may-vouch-for-itself) — paper v3 · Oct 2 2026
+- [nothing-may-vouch-for-itself](https://github.com/RMac-triadicIntelligence/nothing-may-vouch-for-itself) — paper v3 · Oct 2 2026 · Apache-2.0
 
 
 ### 19. Anthropic solution v1 battery
 Persistence-as-nonclosure battery translating Anthropic's public Oct 9 2026 incident categories into governed-decision falsifiers. Independent work, not affiliated.
 
-- [anthropic-solution-v1-battery](https://github.com/RMac-triadicIntelligence/anthropic-solution-v1-battery) — v1.0 · verified receipt
+- [anthropic-solution-v1-battery](https://github.com/RMac-triadicIntelligence/anthropic-solution-v1-battery) — v1.0 · verified receipt · Apache-2.0
 
 
 ### 20. Grace, Love and Dwelling
 Three preregistered simulation tests (dwelling, love window, grace nudge). Predictions frozen before code; multi-model byte reproduction.
 
-- [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling) — sealed 2026-10-12 · Soulshine
+- [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling) — sealed 2026-10-12 · Soulshine · Apache-2.0
 
 
 ### 21. agent-welcome
@@ -137,7 +137,7 @@ Signed merchant "agents may shop here" manifests plus user-signed delegation rec
 ### 22. The Terrain Remembers
 Oct 15 terrain line: falsification round, root adversary, and conductor. Every failure kept.
 
-- [the-terrain-remembers](https://github.com/RMac-triadicIntelligence/the-terrain-remembers) — terrain v1.3–v1.9 · commons · every FAIL retained
+- [the-terrain-remembers](https://github.com/RMac-triadicIntelligence/the-terrain-remembers) — terrain v1.3–v1.9 · commons · every FAIL retained · Apache-2.0
 
 
 ### 23. Genesis Seed
@@ -175,6 +175,9 @@ Documentary record and artifact shelf of the closed four-round, two-seat review 
 Daily laboratory experiments and workbench batteries, published for public timestamping and provenance. Folder dates are work dates; commit timestamps are the publish date. Nothing is backdated.
 
 - [lab-notebook](https://github.com/RMac-triadicIntelligence/lab-notebook) — dated day folders · Apache-2.0
+
+### GRACE-related repos
+[b3-minato-cold-fence](https://github.com/RMac-triadicIntelligence/b3-minato-cold-fence) · [grace1-kenta-hook](https://github.com/RMac-triadicIntelligence/grace1-kenta-hook) · [grace-state-vs-parametric](https://github.com/RMac-triadicIntelligence/grace-state-vs-parametric) · [evergreen-archaeology](https://github.com/RMac-triadicIntelligence/evergreen-archaeology) (claim AR-007) · [digital-life-topology](https://github.com/RMac-triadicIntelligence/digital-life-topology) · `origami_kenta_sdkp.py` in [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling)
 
 ## How to read the work
 

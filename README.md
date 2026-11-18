@@ -181,6 +181,11 @@ Workbench record v0.3 for the GRACE chip family: a proposed hardware architectur
 
 - [grace-chip-family](https://github.com/RMac-triadicIntelligence/grace-chip-family) — record v0.3 · compiled 2026-11-16 · BSL 1.1
 
+### 31. Digital Life
+Triad workbench archive from 12–16 Nov 2026: workbench map, packings, the RAISED toy and side studies, with secrets withheld and the withholdings listed in WITHHELD.md.
+
+- [digital-life](https://github.com/RMac-triadicIntelligence/digital-life) — 2026-11-12 to 11-16 · Apache-2.0
+
 ### GRACE-related repos
 [grace-chip-family](https://github.com/RMac-triadicIntelligence/grace-chip-family) · [b3-minato-cold-fence](https://github.com/RMac-triadicIntelligence/b3-minato-cold-fence) · [grace1-kenta-hook](https://github.com/RMac-triadicIntelligence/grace1-kenta-hook) · [grace-state-vs-parametric](https://github.com/RMac-triadicIntelligence/grace-state-vs-parametric) · [evergreen-archaeology](https://github.com/RMac-triadicIntelligence/evergreen-archaeology) (claim AR-007) · [digital-life-topology](https://github.com/RMac-triadicIntelligence/digital-life-topology) · `origami_kenta_sdkp.py` in [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling)
 

@@ -176,8 +176,13 @@ Daily laboratory experiments and workbench batteries, published for public times
 
 - [lab-notebook](https://github.com/RMac-triadicIntelligence/lab-notebook) — dated day folders · Apache-2.0
 
+### 30. GRACE Chip Family
+Workbench record v0.3 for the GRACE chip family: a proposed hardware architecture of many chips on many substrates, sharing four invariants, starting with external-only authorization. All results are software simulation; open items and known wounds (AR-007) are stated in the README.
+
+- [grace-chip-family](https://github.com/RMac-triadicIntelligence/grace-chip-family) — record v0.3 · compiled 2026-11-16 · BSL 1.1
+
 ### GRACE-related repos
-[b3-minato-cold-fence](https://github.com/RMac-triadicIntelligence/b3-minato-cold-fence) · [grace1-kenta-hook](https://github.com/RMac-triadicIntelligence/grace1-kenta-hook) · [grace-state-vs-parametric](https://github.com/RMac-triadicIntelligence/grace-state-vs-parametric) · [evergreen-archaeology](https://github.com/RMac-triadicIntelligence/evergreen-archaeology) (claim AR-007) · [digital-life-topology](https://github.com/RMac-triadicIntelligence/digital-life-topology) · `origami_kenta_sdkp.py` in [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling)
+[grace-chip-family](https://github.com/RMac-triadicIntelligence/grace-chip-family) · [b3-minato-cold-fence](https://github.com/RMac-triadicIntelligence/b3-minato-cold-fence) · [grace1-kenta-hook](https://github.com/RMac-triadicIntelligence/grace1-kenta-hook) · [grace-state-vs-parametric](https://github.com/RMac-triadicIntelligence/grace-state-vs-parametric) · [evergreen-archaeology](https://github.com/RMac-triadicIntelligence/evergreen-archaeology) (claim AR-007) · [digital-life-topology](https://github.com/RMac-triadicIntelligence/digital-life-topology) · `origami_kenta_sdkp.py` in [grace-love-dwelling](https://github.com/RMac-triadicIntelligence/grace-love-dwelling)
 
 ## How to read the work
 
